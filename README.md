@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Mahto</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align>="right" alt="coding" width="400" srv="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+![Data-Website-Analytics](https://user-images.githubusercontent.com/121816934/232242425-69f3632c-d9f4-4623-876f-0c8efa24e0cf.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjeet14&label=Profile%20views&color=0e75b6&style=flat" alt="itsjeet14" /> </p>
 
